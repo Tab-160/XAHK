@@ -153,7 +153,7 @@ MenuAFK:
 	Gui, Add, Text,, Target Window Title : %targettitle%
 	Gui, Add, Text,, Windows HWIND is : %id%
 	Gui, Add, Text,, CURRENT AVALIBLE OPTIONS: 
-	Gui, Add, Text,, o- Pressing ctrl + alt + m will start Mod Grinding
+	Gui, Add, Text,, o- Pressing ctrl + alt + m will start Mob Grinding
 	Gui, Add, Text,, o- Pressing ctrl + alt + s will stop any AutoKey funtion above
 	Gui, Show,, Minecraft X-AHK V0.4
 	
@@ -193,7 +193,7 @@ MenuJumpFly:
 	Gui, Add, Text,, Target Window Title : %targettitle%
 	Gui, Add, Text,, Windows HWIND is : %id%
 	Gui, Add, Text,, CURRENT AVALIBLE OPTIONS: 
-	Gui, Add, Text,, o- Pressing ctrl + alt + n will dubble hit space and fire a rocket in main hand
+	Gui, Add, Text,, o- Pressing ctrl + alt + e will dubble hit space and fire a rocket in main hand
 	Gui, Show,, Minecraft X-AHK V0.4
 
 	ProgState := 1
